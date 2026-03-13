@@ -5,7 +5,7 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/Tohidkhan6332/TOHID-KHAN
+RUN git clone https://github.com/ENOXKILLER/TOHID-KHAN
 
 WORKDIR /root/tohid-khan
 
