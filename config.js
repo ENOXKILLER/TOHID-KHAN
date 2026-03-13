@@ -6,11 +6,11 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '917849917350';
+const defaultOwner = '243828653251';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || 'your number';  // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '243828653251';  // put your number here
 
 const ownerlist = ownervb.split(';');
 
@@ -20,12 +20,12 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'TOHID-KHAN';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
+global.pairingNumber = process.env.BOT_NUMBER || '243828653251';  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
 
 global.mods = []
 global.prems = []
-global.allowed = ['917849917350', '918930358452']
+global.allowed = ['243828653251', '255758412096']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,15 +73,15 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'TOHID-KHAN'
-global.author = 'TohidTech'
+global.packname = '𝚳𝚫𝐒𝐊-𝐒𝚵𝚪'
+global.author = '𝚳𝚫𝐒𝐊-𝐒𝚵𝚪'
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Tohidkhan6332'
 global.dygp = 'https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T'
-global.fgsc = 'https://github.com/Tohidkhan6332/TOHID-KHAN'
-global.fgyt = 'https://youtube.com/@Tohidkhan_6332'
-global.fgpyp = 'https://GitHub.com/Tohidkhan6332'
-global.fglog = 'https://i.imgur.com/M1BzE37.jpeg'
+global.fgsc = 'https://github.com/ENOXKILLER/TOHID-KHAN'
+global.fgyt = 'https://youtube.com/@masktech_tz'
+global.fgpyp = 'https://GitHub.com/ENOXKILLER'
+global.fglog = 'https://i.imgur.com/hJtWmco.png'
 global.thumb = fs.readFileSync('./assets/tohid.jpg')
 
 global.wait = '⏳'
