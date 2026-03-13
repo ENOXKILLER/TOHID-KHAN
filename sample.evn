@@ -1,10 +1,29 @@
-DATABASE_URL = 
-REMOVEBG_KEY = 'yepeTQaFk7r9ymusihgXYvdN'
-PREFIX = '.'
-MODE = 'public'
-autoRead= 'false'
-BOTNAME = 'TOHID-KHAN'
-antidelete = 'true'
-BOT_NUMBER= 
-OWNERS = 
-SESSION_ID = 
+# ─────────── Database (optional)
+DATABASE_URL=  
+
+# ─────────── API Keys
+REMOVEBG_KEY='yepeTQaFk7r9ymusihgXYvdN'   # Optional: image background removal
+
+# ─────────── Bot Settings
+PREFIX='.'                  # Command prefix
+MODE='public'               # 'public' allows anyone to use commands
+autoRead='true'             # Bot reads incoming messages automatically
+BOTNAME='MASK-TECH'        # Your bot's display name
+antidelete='true'           # Prevent users from deleting messages
+STATUS_VIEW='true'          # Enable auto-status view
+
+# ─────────── WhatsApp Configuration
+BOT_NUMBER=243828653251      # Your WhatsApp number with country code
+OWNERS=243828653251          # Owner number(s); separate multiple numbers with ;
+SESSION_ID=                   # Leave blank for now; will be generated after QR scan
+
+# ─────────── Branding & Media
+MENU_VIDEO='https://i.imgur.com/2Sp3cqD.mp4'  # Menu video shown in bot menu
+THUMBNAIL='./assets/tohid.jpg'                # Local thumbnail file (must exist in assets)
+BOT_LOGO='https://i.imgur.com/hJtWmco.png'   # Bot logo in menu / messages
+
+# ─────────── Optional Social Links
+INSTAGRAM='https://www.instagram.com/masktech_tz'
+WHATSAPP_CHANNEL='https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T'
+GITHUB='https://github.com/ENOXKILLER/TOHID-KHAN'
+YOUTUBE='https://youtube.com/@masktech_tz'
