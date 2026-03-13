@@ -2,27 +2,27 @@
 #### MULTI DEVICE WHATSAPP BOT TOHID KHAN | STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
-  <a href="https://youtube.com/@tohidkhan_6332">
-    <img alt="TOHID" src="https://i.imgur.com/M1BzE37.jpeg">
+  <a href="https://youtube.com/@masktech_tz">
+    <img alt="masktech" src="https://i.imgur.com/hJtWmco.png">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Tohidkhan6332?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?label=Followers&style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID-KHAN?&style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID-KHAN?style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tohidkhan6332/TOHID-KHAN?label=Watching&style=social"></a>
+<a href="https://github.com/ENOXKILLER?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ENOXKILLER?label=Followers&style=social"></a>
+<a href="https://github.com/ENOXKILLER/TOHID-KHAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENOXKILLER/TOHID-KHAN?&style=social"></a>
+<a href="https://github.com/ENOXKILLER/TOHID-KHAN/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ENOXKILLER/TOHID-KHAN?style=social"></a>
+<a href="https://github.com/ENOXKILLER/TOHID-KHAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ENOXKILLER/TOHID-KHAN?label=Watching&style=social"></a>
 </p>
 <p align="center">
   
 ----
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TOHID-KHAN}/count.svg" alt="TohidTech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tohidkhan6332}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{TOHID-KHAN}/count.svg" alt="TohidTech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{ENOXKILLER}/count.svg" /></p>
 
 ----
 <h1 align="center"> EXTERNAL PLUGINS </h1>
 
 <p align="center">
-<a href="https://github.com/Tohidkhan6332/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/TOHID KHAN-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/ENOXKILLER/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/TOHID KHAN-PLUGINS-black?style=for-the-badge&logo=Github"></a>
 <p/>
 
   
@@ -48,7 +48,7 @@ set the Env Vars.
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number e.g 917849917350 | 
+| OWNERS | owner number e.g 243828653251 | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
@@ -59,7 +59,7 @@ set the Env Vars.
 ## 🎬 Watch the Tutorial
 
 To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
-[![TOHID-KHAN YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@tohidkhan_6332)
+[![MASK-TECH BOT YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@masktech_tz)
 
 ---
 
@@ -79,12 +79,12 @@ To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
 ### **Fork & Star the Repository**
    - Start by forking this repository and giving it a ⭐ to support Globaltechinfo!
      To set up the TOHID-KHAN quickly, first fork this repository:
-[![TOHID KHAN Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Tohidkhan6332/TOHID-KHAN/fork)
+MASK TECH Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/ENOXKILLER/TOHID-KHAN/fork)
 
 ### **PAIRING CODE QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![TOHID KHAN Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-md-web-pair-qr.onrender.com)
+     [![MASK TECH Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-md-web-pair-qr.onrender.com)
 
 ### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
@@ -96,7 +96,7 @@ To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly on Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/Tohidkhan6332/TOHID-KHAN/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/ENOXKILLER/TOHID-KHAN/Bypass' target="_blank">
       <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
@@ -104,7 +104,7 @@ To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 3. Deploy your app using the button below:
    <br>
-   <a href='https://github.com/Tohidkhan6332/TOHID-KHAN' target="_blank">
+   <a href='https://github.com/ENOXKILLER/TOHID-KHAN' target="_blank">
       <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
    </a>
 
@@ -136,7 +136,7 @@ To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Replit](https://repl.it) if you don’t have one.
 2. Click the button below to deploy using Replit:
    <br>
-   <a href='https://repl.it/github/Tohidkhan6332/TOHID-KHAN' target="_blank">
+   <a href='https://repl.it/github/ENOXKILLER/TOHID-KHAN' target="_blank">
       <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
    
@@ -152,7 +152,7 @@ To set up the TOHID-KHAN quickly, follow our detailed tutorial on YouTube:
       **Tutorial For Panel**
 1. First You Have to Sign up on discord using web or app download from playstore.
    <br>
-   <a href='https://youtube.com/@tohidkhan_6332' target="_blank">
+   <a href='https://youtube.com/@masktech_tz' target="_blank">
       <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
    </a>
    
@@ -201,12 +201,12 @@ jobs:
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/Tohidkhan6332/TOHID-KHAN/issues">issue</a> or <a href="https://wa.me/917849917350?text=Hello+Tohid+Khan,+I+need+assistance+with+Tohid+Khan+Bot">Contact Us on WhatsApp</a>.</p>
+<p align="center">Need help? Create an <a href="https://github.com/ENOXKILLER/TOHID-KHAN/issues">issue</a> or <a href="https://wa.me/243828653251?text=Hello+MASK+SER,+I+need+assistance+with+MASK+TECH+BOT">Contact Us on WhatsApp</a>.</p>
 
 ---
 
 ### 📜 Table of Contents
-1. [About TOHID KHAN](#-about-Tohid-md)
+1. [About MASK TECH](#-about-MASKTECH-md)
 2. [Features](#-features)
 3. [Installation](#-installation)
 4. [Usage](#-usage)
@@ -215,8 +215,8 @@ jobs:
 
 ---
 
-### 🎩 About TOHID-KHAN
-**TOHID-KHAN** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
+### 🎩 About MASK-TECH BOT
+**MASK-TECH BOT** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
 
 Key features include:
 - **Autoreact**: If You enables, Bot Will Reats With **Beautiful Random Emojis** On All Messages In All Chats.
@@ -233,7 +233,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Tohidkhan6332/TOHID-KHAN.git
+   git clone https://github.com/ENOXKILLER/TOHID-KHAN.git
 ---
 
 ### 💥 Features
@@ -330,17 +330,17 @@ Submit a pull request with a detailed description of your changes.
 ### 🧑‍💻 Connect with the Developer
 
 <p align="center">
-  <a href="https://github.com/Tohidkhan6332">
-    <img src="https://img.shields.io/badge/GitHub-Tohidkhan6332-blue?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/ENOXKILLER">
+    <img src="https://img.shields.io/badge/GitHub-ENOXKILLER-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://t.me/Tohid_mewati">
+  <a href="https://t.me/masktech">
     <img src="https://img.shields.io/badge/Telegram-@Tohid_mewati-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://wa.me/message/917849917350">
+  <a href="https://wa.me/message/243828653251">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://youtube.com/@Tohidkhan_6332">
-    <img src="https://img.shields.io/badge/YouTube-@Tohidkhan_6332-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://youtube.com/@masktech_tz">
+    <img src="https://img.shields.io/badge/YouTube-@masktech_tz-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 ### 📄 License
@@ -350,11 +350,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 ## ⚠️ Disclaimer
 
-*TOHID KHAN Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Tohid is not responsible for any bans or restrictions that may occur.*
+*MASK TECH Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Maskser  is not responsible for any bans or restrictions that may occur.*
 
 ---
 
-<p align="center">© Tohidkhan 2025</p>
+<p align="center">© MaskTech 2026</p>
 
   
   
@@ -393,20 +393,20 @@ curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nod
 apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 ```
 ```
-git clone https://github.com/<your gitHub Username>/TOHID-KHAN
-cd TOHID-KHAN
+git clone https://github.com/<your gitHub Username>/MASK-TECH
+cd MASK-TECH
 ```
 ```
 npm install && npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- **Star ⭐ the repo if you like TOHID-KHAN.**
+- **Star ⭐ the repo if you like MASK-TECH.**
 
 ## Main Developer
-<a href="https://github.com/Tohidkhan6332"><img src="https://github.com/Tohidkhan6332.png" width="250" height="250" alt="Tohidkhan6332"/></a>
+<a href="https://github.com/ENOXKILLER"><img src="https://github.com/ENOXKILLER.png" width="250" height="250" alt="ENOXKILLER"/></a>
   
-`TOHID-KHAN - By TohidTech`
+`MASK-TECH BOT - By maskser`
 
 
 <h2 align="center">  NOTICE
